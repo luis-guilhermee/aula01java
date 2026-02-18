@@ -8,17 +8,16 @@ public class Exercício01 {
 		// TODO Auto-generated method stub
 		String nome, nomeidade;
 		int idade;
-		
-		Scanner ler = new Scanner (System.in) ;
-		
+
+		Scanner ler = new Scanner(System.in);
+
 		System.out.println("Informe seu nome: ");
 		nome = ler.next();
-		
+
 		System.out.println("Informe sua idade: ");
 		idade = ler.nextInt();
-		
-		
-		System.out.println("Seu nome é " + nome+", e sua idade é "+idade+" anos");
+
+		System.out.println("Seu nome é " + nome + ", e sua idade é " + idade + " anos");
 	}
 
 }
