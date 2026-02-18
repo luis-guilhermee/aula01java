@@ -18,7 +18,7 @@ public class Exercício01 {
 		idade = ler.nextInt();
 		
 		
-		System.out.println("Seu nome e idade: " + nome+", "+idade+" anos");
+		System.out.println("Seu nome é " + nome+", e sua idade é "+idade+" anos");
 	}
 
 }
