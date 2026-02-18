@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Exercício01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String nome, nomeidade;
+		String nome;
 		int idade;
 
 		Scanner ler = new Scanner(System.in);
